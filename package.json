@@ -18,5 +18,11 @@
   "homepage": "https://github.com/thenormalboy123/first-unity-community-bank#readme",
   "dependencies": {
     "parcel-bundler": "^1.12.5"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.32.0",
+    "eslint-plugin-react": "^7.26.0",
+    "prettier": "^2.4.1"
   }
 }
