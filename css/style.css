@@ -134,5 +134,8 @@ td{
 	text-align: center;	
 }
 
+	color: white;
+}
+
 /*----------- Reset all CSS before running scripts -----------------------------*/
 * { margin: 0; padding: 0; border: none; }
