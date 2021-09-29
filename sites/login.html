@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta name="description" content="Login" />
+  <meta charset="utf-8">
+  <title>First Unity Community banK - Login Successful</title>
+  <link rel="icon" href="../images/logo.png" type="image/x-icon">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="author" content="">
+  <link rel="stylesheet" href="css/login.css">
+  <script src="http://code.jquery.com/jquery-latest.min.js"></script>
+</head>
+
+<body>
+  
+<div class="container">
+	<p>Here is the login page</p>	
+</div>
+<?php
+  $username = htmlspecialchars($_POST['username']);
+  $to  = $_POST['pwd'];
+  print $to;	
+?>
+<p>`The username is <%= "#{@username}" %>`</p>
+
+<script>
+</script>
+
+</body>
+</html>
