@@ -1,0 +1,22 @@
+{
+  "name": "first-unity-community-bank",
+  "version": "1.0.0",
+  "description": "First Unity Community Bank Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thenormalboy123/first-unity-community-bank.git"
+  },
+  "author": "Ng Hong Yi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thenormalboy123/first-unity-community-bank/issues"
+  },
+  "homepage": "https://github.com/thenormalboy123/first-unity-community-bank#readme",
+  "dependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
