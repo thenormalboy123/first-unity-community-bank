@@ -65,7 +65,7 @@ form {
   padding: 30px 0;
   border: 1px solid #CCC;
   border-radius: 1em;
-  align: center;
+  align-content: center;
 }
 
 input,
@@ -134,6 +134,7 @@ td{
 	text-align: center;	
 }
 
+#footer-links > tr > td > a,a:enabled,a:hover, a:active, a:visited{
 	color: white;
 }
 
